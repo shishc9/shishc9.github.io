@@ -4,13 +4,19 @@
   
   
   <entry>
-    <title>Hexo</title>
-    <link href="/2021/07/01/Hexo/"/>
-    <url>/2021/07/01/Hexo/</url>
+    <title>我可爱的小博客</title>
+    <link href="/2021/07/01/%E6%88%91%E5%8F%AF%E7%88%B1%E7%9A%84%E5%B0%8F%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2021/07/01/%E6%88%91%E5%8F%AF%E7%88%B1%E7%9A%84%E5%B0%8F%E5%8D%9A%E5%AE%A2/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>之前用Typora + Server搭过一篇，发现并不是很好用。</p><p>其实现在也挺狗血的，但毕竟有自己的东西，勉强接受吧…</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><p><a href="https://lucifer-rossweisse.github.io/2021/01/12/github+hexo%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/">参考教程</a></p><p>之后将hexo 和 github绑定起来就可以了。</p><p>选一个自己喜欢的主题，Github搜一下Hexo theme有一大堆，不过也没自己喜欢的那个 …</p><h4 id="废话终于说完了"><a href="#废话终于说完了" class="headerlink" title="废话终于说完了"></a>废话终于说完了</h4><p>最后感谢自己的支持！</p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>日常</tag>
+      
+    </tags>
     
   </entry>
   
